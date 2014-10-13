@@ -1,12 +1,11 @@
 " Vim syntax file
 " Filename:     nagios.vim
 " Language:     Nagios template object configuration file
-" Maintainer:   Elan Ruusamäe <glen@pld-linux.org>
+" Maintainer:   Steven Kreuzer <skreuzer@FreeBSD.org>
+" Author:       Elan Ruusamäe <glen@pld-linux.org>
 " Author:       Lance Albertson <ramereth@gentoo.org>
 " Author:       Ava Arachne Jarvis <ajar@katanalynx.dyndns.org>
-" URL:          http://cvs.pld-linux.org/cgi-bin/cvsweb.cgi/SOURCES/nagios.vim
-" Version Info: $Revision: 1.8 $
-" Last Change:  $Date: 2008-06-08 10:33:07 $ UTC
+" URL:          https://github.com/skreuzer/nagios-syntax
 
 if !exists("main_syntax")
   if version < 600
